@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Phung Van Long
+* Student Name: Phùng Văn Long
 * Student ID: 22BA13206
 
